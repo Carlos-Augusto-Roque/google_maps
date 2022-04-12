@@ -18,3 +18,8 @@ https://cloud.google.com/cloud-console?utm_source=google&utm_medium=cpc&utm_camp
 ### - Criar uma Credencial e obter a ApiKey
 
 ![image](https://user-images.githubusercontent.com/73175242/163016740-32833fd0-164b-49ce-a054-26308550c02f.png)
+
+## Referências
+https://www.npmjs.com/package/@react-google-maps/api
+
+https://www.youtube.com/watch?v=yc8L7llaYKo
